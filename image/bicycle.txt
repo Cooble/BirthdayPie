@@ -1,0 +1,30 @@
+                                     xxxxxxxxxxxxxxxxxxxx      +                         +
+                                     xxxxxxxxxxxxxxxxxxxx      |                         |
+                                     xxxxxxxxxxxxxxxxxxxx      |                         |
+                                      xxxxxxxxxxxxxxxxxx       |                         |
++--------------------------------------xxxxxxxxxxxxxxxx-------+|                         |
+                                       xxxxxxxxxxxxxx          |                         |
+                                         xxxxxxxxxxx           |                         |
+                                             |  |              |     +->                 |
+     +----------------+                      |  |              |     +                   |
+     |<-- Village     |                      |  |              |   +^                    |
+     |                |                      |  |              |<--+|                    |
+     +----------------+                      +  +              |    |        x           |
+            |  |                                               |    |        xxxxxx      |
+            |  |                x                              |    |        xxxxxxxx    |
+            |  |                                               | xxxxx----+   xxxxxxxx   |
+            |  |                                               |xx  | xxx |      |  xx   |
+   x     x xxx |                                               x    |    x|-----++       |
+        xxxxxxxxxxx        x                                   x    +   xx+      |       |
+xxxxxxxxxxxxxxxxxxxx                                           xx      xx        |       |
+              xxx xxxx xxxx                       x             xxxx  xx       xxxx      |
+                           xxxxxx                                   xx      xxxxxxxxxx   |
+                                 x xxxxx x                                 xx    +  xxx  |
+               x                          xxxx                             x     +    x  |
+                                              xxxx                         x          x  |
+ x xx                                            xxxx                      xx        xx  |
+                                                    xxxx                     xxxxxxxxx   |
+                 x              xx                     xxx                               |
+                  x x             xx                      xxx         x                  |
+                    xx                                      xxx                          |
+        x                                                      xxx                       +

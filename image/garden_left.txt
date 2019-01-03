@@ -1,0 +1,30 @@
+                                       xxxxxxxxxxx            +-+
+                                       xxxxxxxxxxx            | |
+                                       xxxxxxxxxx +x----------+-+------------------------+---------+
+----------------------------------------xxxxxxxxx-x
+                   xxxxx                xxxxxxxxx x
+               xxxxx    x               xxxxxxxx  x                          xxxxx
+           xxxx          xx              xxxxxxx xx                          xx   xx
+        xxxx               x     xx         xx   x                         xxx      xx
+     xxxx                   xx   xxxx       ||   x                        xx         xx
+ xxxxx                       xx   xxxxx     ||   x+------------------+xxxx             x++--------->
+xx                           xx+x   xxx     ++    |                  |  +               |
+                            xxx|    |             |    +--------+    |  |    +------+   |
+                          xx   | x xx             |    |        |    |  |    |      |   |
+                       xx      |    xxx           |    +--------+    |  |    |      |   |
+                    xxx        |      xxx         |                  |  |    |      |   |
+x               xxxx     ++    |         xx       |                  |  |    |      |   |
+ x           xxxx     +++ |    |            x     +-----------------x+  |    |     +|   |+---------+
+  x       xxx         +   |    |   x          x                      xx |    |      |   |
+   x  xxxx       +    |   |    |     x         xx                     xx|    |      |   |
+   xxxx  x    xxx|    |  x|   ++     x           xx                    x|    |      |   |
+    +x     xxxx  |    |   |  xx     xx            xx                    +----+------+---+
+    |      +     |    |   +xxxxx   xx              xxxxx                    xx       xx
+    |      |   xx+    |xxx      xxx                    xxxxx               xx         xxxxxxx x
+    |      |xxxx     x+x                                   xxxxxx        xx                    xxxxx
+    |      vx     xxx   xxxx                                     xxxxxxxxx
+    |          xxx         xx
+    |       xxx              x
+    |    xxx                 x
+    |x  xx                   x
+    +xxx                    xx

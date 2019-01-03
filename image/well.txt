@@ -1,0 +1,26 @@
+                   xx                                                              xxxxxxxxxxxxxxxxx
+                    xxxx                                                           xxxxxxxxxxxxxxxxx
+                       xxx                                                         xxxxxxxxxxxxxxxxx
+                         xx                                                        xxxxxxxxxxxxxxxxx
+                      xxx^                                                         xxxxxxxxxxxxxxxxx
+                   xxxx  |                                                          xxxxxxxxxxxxxxxx
+xxxxxxxxx      xxxx      |                                                          xxxxxxxxxxxxxxxx
+<xxxxxxxxxxxxxxxx        |                                                           xxxxxxxxxxxxxxx
+              |          |+---------------------------------------------------------->xxxxxxxxxxxxx
+              |          |                                                              xxxxxxxxx
+              |          |                                                                 ||+|||
+              |          |                                                                 ||||||
+              |          |                           xxxxxxxxxxxxxxxxxxxxxxxxxx+xx         ||||||
+              |          |                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       ||||||xxx
+              |          |                            +xx                          xxx     ||||||
+              |        xxx                            |  xx                          xxx   ||||||
+              |       xxx                             |   xx                          x xxx++++++
+              |      xx                               |    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+              |     xx                                |     |                             |
+              |   xx                                  x     |-----------------------------|
+              |  xx                                    x    |                             |
+xxxxxx        |xx                                       xx  |                             |
+      xxxxx   xx                                         xx |                             |
+           xxxx                                           xx|                             |
+                                                           x|                             |
+                                                           x+-----------------------------+

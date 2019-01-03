@@ -1,0 +1,20 @@
+
+               x
+             xxxxx
+ xxxx        x   xxx
+ x   xxx xxxxxxxxxx xxxx                                                             x
+ xx   xxx              xx                              x
+  x  xx        +   +-+  x                                                                   x
+  xx x            ++ ++ +
+   xxx    +     +++-xx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+     x        +++  xx  xxxx             x                          xx                x
+xxxxxx      +++ xxxx  xx x              x           x               xx
+     xx     +   +    xx x              xx    (     xx                xx                    x
+       xxx     ++  xx   x              xx     )    xx                 x                    x
+         xxxxxxxxxxx   x               xx__..---.._xx                 xx
+          xxxx        x              ,-xx  /  |  \ xx=-.               xx              x
+          xxxxx      xx             :--..___________..--;               xx                       x
+       xxx  xxxxx   xx               \.,_____________,./                 xx                      x
+xxxxxxx      xxxxx xx                                                     xx
+              xxxxxx                                                       xx              x    x
+                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

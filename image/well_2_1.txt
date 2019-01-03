@@ -1,0 +1,30 @@
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                   xxx+-------------------------------------------------------+xxxxx
+                   xxx|+                                                    + |xxxx
+                   xxx|    ^                                              +   |xxxxx
+                   xxx|    +                                           +      |xxxxx
+                   xxx|      +                                                |xxxxx
+                   xxx|         +                                   +>        |xxxxx
+                   xxx|          +-------------------------------++           |xxxxx
+                   xxx|          |                               |            |xxxxx
+                   xxx|          |                               |            |xxxxx
+                   xxx|          |                               |            |xxxxx
+                   xxx|          |                               |            |xxxxx
+                   xxx|          |                               |            |xxxxx
+                   xxx|          |                               |            |xxxxx
+                   xxx|          |                               |            |xxxxx
+                   xxx|          |                               |            |xxxxx
+                   xxx|          |                               |            |xxxx
+                  x xx|          |                               |            |xxxxx
+                  x xx|          |                               |            |xxxxx
+                  x xx|          |                               |            |xxxxx
+                  xxxx|          |                               |            |xxxxx
+                   xxx|         ++-------------------------------+            |xxxxx
+                   xxx|      ++                                   +  +        |xxxxx
+                   xxx|      v                                        +       |xxxxx
+                   xxx|    +                                            +     |xxxx
+                   xxxx  <+                                                +  |xxxx
+                   xxxx +                                                   + |xxxx
+                   xxxx-------------------------------------------------------+xxxx
+                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                   xxxxxxxxxxxxxxxxxxx xxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

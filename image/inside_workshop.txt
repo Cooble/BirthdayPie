@@ -1,0 +1,23 @@
+  +------------+  +                  xx
+  |            |  |                 xxxx
+  |   xx  x  x |  |     xxxxx      xxxxx
+  |   x   x xx |  |     xxxxxxx xxxxxxxxx   xxxxx
+  |   xxxxxxxx |  |      xxxx           xx xxxxx
+  +------------+  |      xxx            xxxxxxx                                      x
+  |            |  |       x      xxxxx    xxx                                        x
+  |  x  x      |  |       xx     x   x     x                              x          x
+  |  x  x      |  |        xx    xxxxx     x                              x          xxxxxxxx
+  |  xxxx      |  |       xxxx            xxx             x+--------xxxxxxxxxxx------xxxxxxxx------>
+  +------------+  |      xxxxxxx         xxxxx         xxx                xxxxx      xxxxxxxx
+  |            |  |      xxxxxxxxxxxxxxxxxxxxxxx     xxx                                        xxxx
+  |            |  |    xxxxxx     xxxxxxx     xxx   x-------------------------------------------x
+  |         x  |  |                 xxxxx           |                      +                    |
+  |        xx  |  |                 xxxx            |                      |                    |
+  |        xx  |  |                  xx             |                      |                    |
+  +------------+  |                                 |                      |                    |
+  |            |  |                                 |                      |                    |
+  |  xx        |  |                                 |                    + | +                  |
++-|       x x  |  +---------------------------------|                      |                    |  +
+  |     xxx x  | xx                                 |                      |                    | xx
+  |  xx xx  x  |xx                                  |                      |                    xx
+  +------------+x                                   +----------------------v--------------------x

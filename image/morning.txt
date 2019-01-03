@@ -1,0 +1,30 @@
+                                                        xx              xx
+  +---+                                                   xxx          xxx                      +
+   +-+                                         xx                     xx                 +------+
+                                               xxxxx          xxxxxx  x                 +---+  +--+
+               +--++----+                          xxx      xxxxxxxxxx
+           +--+        +---+                               xxxxxxxxxxxx    x x
+               +--+ +----+                                 xxxxxxxxxxxx    xxxxxxx
+                                                          xxxxxxxxxxxxx
+                                                     xxxx  xxxxxxxxxxx
+                                                  xxxxxx    xxxxxxxx      xx
+                                                                           xxx
+ +-+                                                          x       x      x
+  +-+-+                                                       xx      xx
+      +-+                                                     xx       xx
+                                                                        x
+                             xxx         +
+                            xxxxx   +----+---------------+
+                  x        xxxxxx   +                    +
+                xxxx       xxxxxx   +                    +            xx           ^    ^
+               xxxxxxx     xxxxxx   +--------------------+          xxxxxx         +-++-+
+              xx-----xx     xxxx    |                    |         xxxxxxxx           xxxxxx
+               |     |        |     |   +--+    ++       |          |    |             +xxx+
+               |     |        |     |   +--+    ||       |          |    |    xxxx     |   |
++--------------|     |--------+-----+-----------++-------+----------|    |---xxxxxx----v---v-------+
+               |     |                                              |    |   xxxxxx
+               +     +                                              +----+   xxxxxx
+                                                                             xxxxxxx
+                                                                  xxxxxxxx    xxxxx
+                                                                   x     x      |
+                                                                   xxxxxxx      +

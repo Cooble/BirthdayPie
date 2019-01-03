@@ -1,0 +1,25 @@
+                        +x
+                        |xxxx
+                        |    xxx
+                        |      x xxx
+                        |        xxxx x
+                        |           xx x xx
+                        |              x xxxxx x
+                        |                x xxxxx x
+                        |                  x xxxxx x
+                        |                       xxxxxx x
+                        |                         xxxxxxx
+                        |                          xxxxxxxxx             x
+                        |                              xxxxxxx        xxxxxx
+                        |                                 xxxxxxx    x x  xxx
+                        |                                    xxxxxx  xx    xx
+                        |                                       xxxx xxx  xxx
+                        |                                         xxxxxxxxxx
+                        |                                            xxxxxx
+                        |                                              xxxxxx
+                        |                                                 xxx
+                        |                                                  x
+                        |
+                        |
+                        |
+                        v
