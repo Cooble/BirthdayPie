@@ -1,4 +1,4 @@
-import pickle
+from pickle import load,dump
 import os
 def loadImage(fileName):
     try:
@@ -11,7 +11,7 @@ def loadImage(fileName):
 def saveGame(engine):
     try:
         with open('game_file.bin', 'wb') as game_file:
-            pickle.dump(engine, game_file)
+            dump(engine, game_file)
             return True
     except OSError:
         return False
@@ -20,7 +20,7 @@ def loadGame():
 
     try:
         with open('game_file.bin', 'rb') as game_file:
-            return  pickle.load(game_file)
+            return  load(game_file)
     except OSError:
         return None
 

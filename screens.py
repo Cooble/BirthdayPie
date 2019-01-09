@@ -282,6 +282,8 @@ def onGramUse(item, item2,e):
         e.s.cs().items.append(item)
         e.variables["bull_meta"] = 2
         e.a.playAnimation("bull")
+        return True
+    return False
 
 class ScreenHall(Screen):
     def __init__(self):

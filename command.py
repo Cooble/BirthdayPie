@@ -1,4 +1,5 @@
-import items,util,sys
+import items,util
+from sys import exit
 class Command:
     def __init__(self, name, description, aliases=None):
         self.DESCRIPTION = description
@@ -68,7 +69,7 @@ class CommandLoad(Command):
             if command.lower().split(" ")[0] == "y":
                 self.alpha = False
                 if e.loadGame():
-                    sys.exit(0)
+                    exit(0)
                 else:
                     e.player.buildHelpLine("Cannot load the game")
             else:
@@ -130,7 +131,7 @@ class CommandExit(Command):
         if self.alpha:
             if command.lower().split(" ")[0] == "y":
                 self.alpha = False
-                e.exit()
+                e.exit(save=not self.d)
             else:
                 e.player.showInfoPanel(False)
                 self.alpha = False
@@ -139,7 +140,7 @@ class CommandExit(Command):
 
         if command=="exit" or command=="exitd":
             self.d = command=="exitd"
-            if self.d:
+            if not self.d:
                 e.player.buildBoolQuery("Do you really want to save and quit the game? (esc to exit)")
             else:
                 e.player.buildBoolQuery("Do you really want to quit the game without saving? (esc to exit)",addInfo="(Any non saved data will be lost)")

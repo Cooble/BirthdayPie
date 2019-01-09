@@ -3,7 +3,8 @@ from math import fabs
 
 class Graphics:
     RATIO = 2
-    rectSymbol = "#"
+    #rectSymbol = "#"
+    rectSymbol = "█"
     underSymbol = "="
 
     def __init__(self, w, h, ratio=2):
