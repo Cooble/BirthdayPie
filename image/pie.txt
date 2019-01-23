@@ -4,11 +4,11 @@
  xxxx        x   xxx
  x   xxx xxxxxxxxxx xxxx                                                             x
  xx   xxx              xx                              x
-  x  xx        +   +-+  x                                                                   x
-  xx x            ++ ++ +
-   xxx    +     +++-xx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-     x        +++  xx  xxxx             x                          xx                x
-xxxxxx      +++ xxxx  xx x              x           x               xx
+  x  xx        ^^  ---- x                                                                   x
+  xx x            -- ++ +
+   xxx    ^^    ----xx  x==========================================
+     x        ---  xx  xxxx             ()         ()              xx                x
+xxxxxx      --+ xxxx  xx x              x           x               xx
      xx     +   +    xx x              xx    (     xx                xx                    x
        xxx     ++  xx   x              xx     )    xx                 x                    x
          xxxxxxxxxxx   x               xx__..---.._xx                 xx
@@ -17,4 +17,4 @@ xxxxxx      +++ xxxx  xx x              x           x               xx
        xxx  xxxxx   xx               \.,_____________,./                 xx                      x
 xxxxxxx      xxxxx xx                                                     xx
               xxxxxx                                                       xx              x    x
-                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 =============================================================
