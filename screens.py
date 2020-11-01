@@ -388,7 +388,7 @@ class ScreenWorkshopInside(Screen):
 def onBiUse(item,item2,e):
     if item2 is not None and item2.ID=="tools":
         e.a.playAnimation("end")
-        e.exit(save=False,discard=True)
+        #e.exit(save=False,discard=True)
         #animation to go........
     else:
         if e.getVar("flour_checked"):
